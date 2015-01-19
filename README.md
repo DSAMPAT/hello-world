@@ -5,16 +5,16 @@ Day1
 ====
 Creating my First commit, Hello World!
   
-  Created ReadMe
+  * Created ReadMe
   
-  Created Issue
+  * Created Issue
   
-  Created Branch to resolve Issue
+  * Created Branch to resolve Issue
   
-  Made changes to ReadMe as per Issue request
+  * Made changes to ReadMe as per Issue request
   
-  Opened Pull Request
+  * Opened Pull Request
   
-  Created Pull Request
+  * Created Pull Request
   
-  Merged Pull Request and Deleted Branch to close Issue
+  * Merged Pull Request and Deleted Branch to close Issue
